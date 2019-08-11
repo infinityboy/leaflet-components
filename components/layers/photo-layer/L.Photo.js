@@ -1,9 +1,9 @@
 // eslint-disable-next-line
 /* eslint-disable */
 /*
- * @Author: svt.dzc 
+ * @Author: infinityboy 
  * @Date: 2018-11-30 11:09:01 
- * @Last Modified by: svt.dzc
+ * @Last Modified by: infinityboy
  * @Last Modified time: 2019-02-18 17:08:37
  */
 L.Photo = L.FeatureGroup.extend({
