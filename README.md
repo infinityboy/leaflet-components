@@ -1,2 +1,8 @@
 # leaflet-components
 一个自用的基于leaflet的js组件库
+
+集成了一些常见的gis瓦片地图可视化需求，瓦片服务地址使用的是google地图的在线瓦片服务地址
+
+这里example文件夹下的例子是用vue做的，可放在vue项目中直接使用
+
+这里components文件夹下的组件是基于js，es6 modlue 所做的组件封装，可以灵活嵌入vue,react等框架里
